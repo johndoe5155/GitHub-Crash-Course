@@ -48,10 +48,43 @@ git branch {branch-name}
 git checkout {branch-name}
 ```
 
+> To add a new branch to the Origin:
+```sh
+git branch -u origin {branch-name}
+```
 
 ## Remotes
 
+
+
 ## Stashing
+NOTE: Stashes could be lost in a remote development environment.
+> To get changes out of the way:
+```sh
+git stash [save {stash-name}]
+```
+It stores the changes somewhere else 
+
+> To list the stashes:
+```sh
+git stash list
+```
+
+> To get the stashes back:
+**This will use and remove the first stash in the stack:**
+```sh
+git stash pop
+```
+
+**This will only use the first stash in the stack:**
+```sh
+git stash apply
+```
+
+**This will get a specific stash from the stack:**
+```sh
+git stash [I DON"T REMEMBER IT]
+```
 
 ## Merging
 
