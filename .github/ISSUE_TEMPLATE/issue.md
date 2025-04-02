@@ -6,10 +6,12 @@ labels: bug
 assignees: ''
 ---
 
-# Issue Creation
+# New Issue
 
-## Issue Title 
-<!-- The title of your issue -->
+## <!-- The title of your issue -->
 
 ## Issue Description 
 <!-- A detailed description of your issue -->
+
+## Steps to Recreate the Issue 
+<!-- A steps by step guide on how we can recreate the issue -->
