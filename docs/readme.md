@@ -5,4 +5,3 @@ It is very important to learn even as a developer
 
 Docker is cool
 I like hardware
- Hell Yeah
