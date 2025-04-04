@@ -15,3 +15,6 @@ assignees: ''
 
 ## Steps to Recreate the Issue 
 <!-- A steps by step guide on how we can recreate the issue -->
+
+## How to Fix the Issue
+<!-- Recommend a way/s to fix the issue, if you have any -->
